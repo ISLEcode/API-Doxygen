@@ -2,7 +2,8 @@
 
 **API Doxygen** is a customised version of [Documentor][insdocu] — it is intended to be used in with [API Designer][designer] and
 [API Swagger][swagger]. Akin to Postman's [Documenter][postdoc] but for [API-Designer][designer] (i.e. [Insomnia]), it is based on
-[Svelte] — the « cybernetically enhanced » application framework, to automagically generate your API documentation :smile:.
+[Svelte] — the «&nbsp;cybernetically enhanced&nbsp;» application framework, to automagically generate your API documentation
+:smile:.
 
 All credits for this software goes to its original authors. Customisations here intend to:
 
@@ -30,10 +31,13 @@ All credits for this software goes to its original authors. Customisations here 
 - [License](#license)
 - [Insomnia Documenter for enterprise](#insomnia-documenter-for-enterprise)
 
+<details>
+<summary>Requirements</summary>
 ## Requirements
   * Node.js (8.x or higher is recommended)
   * An exported Insomnia workspace JSON (v4)
 
+</details>
 ## Getting Started
 
 Insomnia Documenter offers a CLI tool to make it super easy to set up a documentation page. You can use it in two ways.
