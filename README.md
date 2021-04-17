@@ -1,8 +1,10 @@
+## API Doxygen
 
-**API Doxygen** is a customised version of [Insomnia Documentor][insdocu]; it is intended to be used in conjunction with
-[API Designer][api-designer] and [API Swagger][api-swagger].
+**API Doxygen** is a customised version of [Documentor][insdocu] — it is intended to be used in with [API Designer][designer] and
+[API Swagger][api-swagger]. Akin to Postman's [Documenter][postdoc] but for [API-Designer][designer] (i.e. [Insomnia]), it is
+based on [Svelte] — the « cybernetically enhanced » application framework :smile:
 
-All credits for this software goes to its original authors. Customisation here is intended to:
+All credits for this software goes to its original authors. Customisations here intend to:
 
   - Transform into a GitHub template
   - Automate the build through a Makefile and GitHub Actions
@@ -10,12 +12,6 @@ All credits for this software goes to its original authors. Customisation here i
   - And probably migrate to SveleKit
 
 
-Like [Postman Documenter](https://www.getpostman.com/api-documentation-generator) but for [Insomnia](https://insomnia.rest)! With this tool you can generate beautiful API documentation pages using your Insomnia export file.
-
-
-
-**Demo: https://jozsefsallai.github.io/insomnia-documenter**<br>
-**Tutorial and demo video: https://www.youtube.com/watch?v=pq2u3FqVVy8**
 
 ## Table of Contents
 
@@ -173,3 +169,6 @@ The maintainers of Insomnia Documenter and thousands of other packages are worki
 [api-designer]: https://github.com/ISLEcode/API-Designer
 [api-doxygen]:  https://github.com/ISLEcode/API-Doxygen
 [api-swagger]:  https://github.com/ISLEcode/API-Swagger
+[postdoc]:      https://www.getpostman.com/api-documentation-generator
+[insomnia]:     https://insomnia.rest
+[svelte]:       https://svelte.dev
