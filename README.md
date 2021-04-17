@@ -7,6 +7,7 @@
 
 <details>
 <summary><b>Objectives</b></summary>
+<hr>
 
 All credits for this software goes to its original authors. Customisations here intend to:
 
@@ -15,9 +16,9 @@ All credits for this software goes to its original authors. Customisations here 
   - Reduce the (numerous) dependencies
   - And probably migrate to SveleKit
 
-</details>
-
 **Important**: We focus on macOS and Linux — stick with [Documentor][insdocu] if you are on Windows.
+
+</details>
 
 <details>
 <summary><b><u>Requirements</u></b></summary>
