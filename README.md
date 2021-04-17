@@ -1,6 +1,18 @@
-![Insomnia Documenter](assets/logo.png)
+  [insdocu]:      https://github.com/jozsefsallai/insomnia-documenter). It is
+  [api-designer]: https://github.com/ISLEcode/API-Designer
+  [api-doxygen]:  https://github.com/ISLEcode/API-Doxygen
+  [api-swagger]:  https://github.com/ISLEcode/API-Swagger
 
-This is a customised version of [Insomnia Documentor](https://github.com/jozsefsallai/insomnia-documenter).
+**API Doxygen** is a customised version of [Insomnia Documentor][insdocu]; it is intended to be used in conjunction with
+[API Designer][api-designer] and [API Swagger][api-swagger].
+
+All credits for this software goes to its original authors. Customisation here is intended to:
+
+  - Transform into a GitHub template
+  - Automate the build through a Makefile and GitHub Actions
+  - Reduce the (numerous) dependencies
+  - And probably migrate to SveleKit
+
 
 Like [Postman Documenter](https://www.getpostman.com/api-documentation-generator) but for [Insomnia](https://insomnia.rest)! With this tool you can generate beautiful API documentation pages using your Insomnia export file.
 
