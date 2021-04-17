@@ -7,7 +7,7 @@
 
 <details>
 <summary><b>Objectives</b></summary>
-<hr>
+---
 
 All credits for this software goes to its original authors. Customisations here intend to:
 
