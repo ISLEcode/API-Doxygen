@@ -1,8 +1,8 @@
 ## API Doxygen
 
 **API Doxygen** is a customised version of [Documentor][insdocu] — it is intended to be used in with [API Designer][designer] and
-[API Swagger][api-swagger]. Akin to Postman's [Documenter][postdoc] but for [API-Designer][designer] (i.e. [Insomnia]), it is
-based on [Svelte] — the « cybernetically enhanced » application framework :smile:
+[API Swagger][swagger]. Akin to Postman's [Documenter][postdoc] but for [API-Designer][designer] (i.e. [Insomnia]), it is based on
+[Svelte] — the « cybernetically enhanced » application framework, to automagically generate your API documentation :smile:.
 
 All credits for this software goes to its original authors. Customisations here intend to:
 
@@ -11,7 +11,7 @@ All credits for this software goes to its original authors. Customisations here 
   - Reduce the (numerous) dependencies
   - And probably migrate to SveleKit
 
-
+**Important**: We focus on macOS and Linux — stick with [Documentor][insdocu] if you are on Windows.
 
 ## Table of Contents
 

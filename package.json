@@ -4,14 +4,21 @@
   "description": "API documentation generator tool for Insomnia.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jozsefsallai/insomnia-documenter.git"
+    "url": "git+https://github.com/ISLEcode/API-Doxygen.git"
   },
   "keywords": [
-    "insomnia",
+    "API-Designer",
+    "API-Doxygen",
+    "API-Swagger",
+    "Insomnia",
+    "Insomnia Documentor",
     "API",
-    "docs",
-    "documentation",
-    "generator"
+    "API Documentation",
+    "Documentation",
+    "REST",
+    "GraphQL",
+    "Svelte",
+    "Rollback"
   ],
   "bin": {
     "insomnia-documenter": "./bin/generate.js"
