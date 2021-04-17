@@ -32,16 +32,13 @@ All credits for this software goes to its original authors. Customisations here 
 - [Insomnia Documenter for enterprise](#insomnia-documenter-for-enterprise)
 
 <details>
-<summary>
-
-## Requirements
-
-</summary>
+<summary> ## Requirements </summary>
 
 * Node.js (8.x or higher is recommended)
 * An exported Insomnia workspace JSON (v4)
 
 </details>
+
 ## Getting Started
 
 Insomnia Documenter offers a CLI tool to make it super easy to set up a documentation page. You can use it in two ways.
