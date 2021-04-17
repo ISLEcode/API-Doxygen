@@ -32,7 +32,7 @@ All credits for this software goes to its original authors. Customisations here 
 - [Insomnia Documenter for enterprise](#insomnia-documenter-for-enterprise)
 
 <details>
-<summary> ## Requirements </summary>
+<summary><h3>Requirements</h3></summary>
 
 * Node.js (8.x or higher is recommended)
 * An exported Insomnia workspace JSON (v4)
