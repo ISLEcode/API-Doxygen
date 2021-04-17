@@ -1,7 +1,3 @@
-  [insdocu]:      https://github.com/jozsefsallai/insomnia-documenter). It is
-  [api-designer]: https://github.com/ISLEcode/API-Designer
-  [api-doxygen]:  https://github.com/ISLEcode/API-Doxygen
-  [api-swagger]:  https://github.com/ISLEcode/API-Swagger
 
 **API Doxygen** is a customised version of [Insomnia Documentor][insdocu]; it is intended to be used in conjunction with
 [API Designer][api-designer] and [API Swagger][api-swagger].
@@ -172,3 +168,8 @@ MIT.
 Available as part of the Tidelift Subscription
 
 The maintainers of Insomnia Documenter and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/npm-insomnia-documenter?utm_source=npm-insomnia-documenter&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
+
+  [insdocu]:      https://github.com/jozsefsallai/insomnia-documenter). It is
+  [api-designer]: https://github.com/ISLEcode/API-Designer
+  [api-doxygen]:  https://github.com/ISLEcode/API-Doxygen
+  [api-swagger]:  https://github.com/ISLEcode/API-Swagger
