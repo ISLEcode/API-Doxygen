@@ -5,12 +5,17 @@
 [Svelte] — the «&nbsp;cybernetically enhanced&nbsp;» application framework, to automagically generate your API documentation
 :smile:.
 
+<details>
+<summary><b>Objectives</b></summary>
+
 All credits for this software goes to its original authors. Customisations here intend to:
 
   - Transform into a GitHub template
   - Automate the build through a Makefile and GitHub Actions
   - Reduce the (numerous) dependencies
   - And probably migrate to SveleKit
+
+</details>
 
 **Important**: We focus on macOS and Linux — stick with [Documentor][insdocu] if you are on Windows.
 
